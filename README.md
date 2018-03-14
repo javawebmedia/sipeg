@@ -1,5 +1,5 @@
 # SIPEG - SISTEM INFORMASI PEGAWAI
-SIPEG atau Sistem Informasi Pegawai ini adalah aplikasi kepegawaian sederhana untuk mengelola data pegawai.
+SIPEG atau Sistem Informasi Pegawai ini adalah aplikasi kepegawaian sederhana untuk mengelola data pegawai. Aplikasi ini dibangun dengan menggunakan Framework Codeigniter 3.1.7 dan database MySQL.
 
 # CARA INSTALLASI
 Untuk melakukan installasi berikut langkah-langkahnya:
