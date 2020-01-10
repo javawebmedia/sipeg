@@ -17,7 +17,7 @@ class Simple_login
 	{
 		$check = $this->CI->pegawai_model->login($username,$password);
 		// Kalau ada record/data yang cocok, maka login
-		if(count($check) == 1) 
+		if($check) 
 		{
 			// Set session
 			$this->CI->session->set_userdata('id_pegawai',$check->id_pegawai);
